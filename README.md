@@ -116,3 +116,8 @@ int main(){
     cout << endl;
     return 0;
 }
+
+	
+
+
+![image](https://user-images.githubusercontent.com/121021881/209507070-83dfe464-a274-4610-985c-c0a3986398c9.png)
